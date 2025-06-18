@@ -9,9 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 @EnableDiscoveryClient
 public class PedidoServiceApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(PedidoServiceApplication.class, args);
 	}
-
 }
