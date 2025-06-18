@@ -9,3 +9,12 @@ Ventajas:
 - Permiten modelos de programación más simples (no se requieren frameworks reactivas en muchos casos).
 
 Son ideales para aplicaciones que manejan muchas solicitudes simultáneas (por ejemplo, APIs REST).
+
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_7.png](img_7.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
